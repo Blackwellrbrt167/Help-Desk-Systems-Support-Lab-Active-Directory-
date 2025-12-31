@@ -4,20 +4,30 @@
 
 ## Goal
 Demonstrate help desk + systems support readiness by practicing:
-- OU design (department structure)
-- User lifecycle (create/disable/reset/unlock/group membership)
-- Group Policy (GPO creation + link + verification)
-- Documentation with screenshot evidence
+OU design (department structure)
+User lifecycle (create/disable/reset/unlock/group membership)
+Group Policy (GPO creation + link + verification)
+Documentation with screenshot evidence
 
 ## Environment
-- Windows Server (Domain Controller): Windows Server 2022 Eval (AD DS, DNS)
-- Windows Client: Windows 11 (domain-joined)
-- Tools: Active Directory Users and Computers (ADUC), Group Policy Management (GPMC), Event Viewer
+Domain Controller: Windows Server 2022 Eval (AD DS, DNS)
+Client: Windows 11 Pro (domain-joined)
+Domain: lab.local
+Tools: ADUC, GPMC, Event Viewer, Command Prompt/PowerShell
 
-## Proof
-See `/docs` and `/screenshots` for step-by-step workflows and evidence.
 
-## Labs
-1. OU Structure Setup
-2. User Lifecycle Management
-3. GPO Basics + Verification
+## How to Navigate This Repo
+**/docs** → documentation (one-pagers + templates)
+**/screenshots** → evidence folders by lab (screenshots added after skeleton is complete)
+**/changelog** → short notes on improvements and rebuilds
+
+## Labs (evidence organized by folder)
+1. AD Domain Setup
+2. Client Domain Join
+3. OU Structure Setup
+4. User Lifecycle Management
+5. GPO Basics + Verification
+
+## Proof 
+See **/docs** for step-by-step workflows and **/screenshots** for evidence by lab. 
+
