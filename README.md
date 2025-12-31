@@ -1,5 +1,3 @@
-# Help-Desk-Systems-Support-Lab-Active-Directory-
-
 # Help Desk & Systems Support Lab (Active Directory)
 
 ## Goal
