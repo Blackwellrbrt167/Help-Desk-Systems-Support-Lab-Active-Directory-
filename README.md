@@ -1,6 +1,6 @@
 # Help-Desk-Systems-Support-Lab-Active-Directory-
 
-# Care Advantage Help Desk & Systems Support Lab (Active Directory)
+# Help Desk & Systems Support Lab (Active Directory)
 
 ## Goal
 Demonstrate help desk + systems support readiness by practicing:
