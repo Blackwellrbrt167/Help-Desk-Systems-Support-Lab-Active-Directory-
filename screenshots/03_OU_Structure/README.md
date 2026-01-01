@@ -1,1 +1,1 @@
-# OU Structure
+OU structure screenshots
