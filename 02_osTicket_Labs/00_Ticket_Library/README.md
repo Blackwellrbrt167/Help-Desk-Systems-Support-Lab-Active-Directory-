@@ -6,7 +6,7 @@ Each ticket is designed to reflect realistic Tier 1–Tier 2 IT support responsi
 
 ---
 
-## 📁 Ticket Categories
+##  Ticket Categories
 
 ### 01_User_Management_AD
 Active Directory–based user support tasks such as onboarding, password resets, account lockouts, and permissions troubleshooting.
@@ -25,7 +25,7 @@ Operational documentation tasks such as knowledge base creation and IT asset inv
 
 ---
 
-## 🧾 Ticket Documentation Standard
+##  Ticket Documentation Standard
 
 Each ticket folder contains:
 **README.md** – Ticket summary, troubleshooting steps, and resolution
@@ -41,7 +41,7 @@ Preventive Recommendation
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This ticket library demonstrates:
 Practical Help Desk workflows
